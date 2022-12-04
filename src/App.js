@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
      <div>Changes on branch1</div>
+     <div>Changes on branch6</div>
     </div>
   );
 }
